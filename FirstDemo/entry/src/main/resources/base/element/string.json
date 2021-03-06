@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "FirstDemo"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Phone_Empty Feature Ability"
+    },
+    {
+      "name": "switch_local_fa",
+      "value": "通过不同page间导航的方式跳转到本地FA"
+    },
+    {
+      "name": "switch_remote_fa",
+      "value": "通过不同page间导航的方式跳转到远端FA"
+    },
+    {
+      "name": "switch_slice",
+      "value": "通过同一page的slice间导航的方式跳转"
+    },
+    {
+      "name": "nextability_description",
+      "value": "Java_Phone_Empty Feature Ability"
+    },
+    {
+      "name": "HelloWorld",
+      "value": "Hello World"
+    },
+    {
+      "name": "fourthability_description",
+      "value": "Java_Phone_Empty Feature Ability"
+    },
+    {
+      "name": "HelloWorld",
+      "value": "Hello World"
+    }
+  ]
+}
